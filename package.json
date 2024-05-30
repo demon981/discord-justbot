@@ -1,0 +1,19 @@
+{
+  "name": "justbot",
+  "main": "app.js",
+  "author": "DeMoNeK_",
+  "version": "0.0.3",
+  "scripts": {
+    "dev": "node app_2.js",
+    "start": "node app_2.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "enmap": "^5.8.7",
+    "ffmpeg-static": "^4.2.7",
+    "gamedig": "^2.0.0",
+    "mysql": "^2.18.1",
+    "pm2": "^5.1.2"
+  }
+}

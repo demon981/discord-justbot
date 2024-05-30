@@ -1,0 +1,13 @@
+{
+	"mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "justbot"
+    },
+
+    "main": {
+        "token": "",
+        "prefix": "!"
+    }
+}
